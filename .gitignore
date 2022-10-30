@@ -2,3 +2,4 @@ venv/
 *.pyc
 /requirements.txt
 news_admin/media
+news_admin/collected_static/
